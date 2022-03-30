@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingameCSharp", "CodingameCSharp\CodingameCSharp.csproj", "{968C5632-38C8-4E6C-8950-B551EBC8BAAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodinGameCsharpUpdated", "CodinGameCsharpUpdated\CodinGameCsharpUpdated.csproj", "{168CC124-AA72-418A-9E10-4F87C58617E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{968C5632-38C8-4E6C-8950-B551EBC8BAAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{968C5632-38C8-4E6C-8950-B551EBC8BAAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{968C5632-38C8-4E6C-8950-B551EBC8BAAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{968C5632-38C8-4E6C-8950-B551EBC8BAAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{168CC124-AA72-418A-9E10-4F87C58617E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{168CC124-AA72-418A-9E10-4F87C58617E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{168CC124-AA72-418A-9E10-4F87C58617E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{168CC124-AA72-418A-9E10-4F87C58617E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

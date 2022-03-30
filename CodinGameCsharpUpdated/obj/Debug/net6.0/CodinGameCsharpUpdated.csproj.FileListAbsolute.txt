@@ -1,0 +1,15 @@
+C:\Users\yeti9\Desktop\All Project\Project_NET\CodinGameCSharp\CodingameCSharp\CodinGameCsharpUpdated\bin\Debug\net6.0\CodinGameCsharpUpdated.exe
+C:\Users\yeti9\Desktop\All Project\Project_NET\CodinGameCSharp\CodingameCSharp\CodinGameCsharpUpdated\bin\Debug\net6.0\CodinGameCsharpUpdated.deps.json
+C:\Users\yeti9\Desktop\All Project\Project_NET\CodinGameCSharp\CodingameCSharp\CodinGameCsharpUpdated\bin\Debug\net6.0\CodinGameCsharpUpdated.runtimeconfig.json
+C:\Users\yeti9\Desktop\All Project\Project_NET\CodinGameCSharp\CodingameCSharp\CodinGameCsharpUpdated\bin\Debug\net6.0\CodinGameCsharpUpdated.dll
+C:\Users\yeti9\Desktop\All Project\Project_NET\CodinGameCSharp\CodingameCSharp\CodinGameCsharpUpdated\bin\Debug\net6.0\CodinGameCsharpUpdated.pdb
+C:\Users\yeti9\Desktop\All Project\Project_NET\CodinGameCSharp\CodingameCSharp\CodinGameCsharpUpdated\obj\Debug\net6.0\CodinGameCsharpUpdated.csproj.AssemblyReference.cache
+C:\Users\yeti9\Desktop\All Project\Project_NET\CodinGameCSharp\CodingameCSharp\CodinGameCsharpUpdated\obj\Debug\net6.0\CodinGameCsharpUpdated.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yeti9\Desktop\All Project\Project_NET\CodinGameCSharp\CodingameCSharp\CodinGameCsharpUpdated\obj\Debug\net6.0\CodinGameCsharpUpdated.AssemblyInfoInputs.cache
+C:\Users\yeti9\Desktop\All Project\Project_NET\CodinGameCSharp\CodingameCSharp\CodinGameCsharpUpdated\obj\Debug\net6.0\CodinGameCsharpUpdated.AssemblyInfo.cs
+C:\Users\yeti9\Desktop\All Project\Project_NET\CodinGameCSharp\CodingameCSharp\CodinGameCsharpUpdated\obj\Debug\net6.0\CodinGameCsharpUpdated.csproj.CoreCompileInputs.cache
+C:\Users\yeti9\Desktop\All Project\Project_NET\CodinGameCSharp\CodingameCSharp\CodinGameCsharpUpdated\obj\Debug\net6.0\CodinGameCsharpUpdated.dll
+C:\Users\yeti9\Desktop\All Project\Project_NET\CodinGameCSharp\CodingameCSharp\CodinGameCsharpUpdated\obj\Debug\net6.0\refint\CodinGameCsharpUpdated.dll
+C:\Users\yeti9\Desktop\All Project\Project_NET\CodinGameCSharp\CodingameCSharp\CodinGameCsharpUpdated\obj\Debug\net6.0\CodinGameCsharpUpdated.pdb
+C:\Users\yeti9\Desktop\All Project\Project_NET\CodinGameCSharp\CodingameCSharp\CodinGameCsharpUpdated\obj\Debug\net6.0\CodinGameCsharpUpdated.genruntimeconfig.cache
+C:\Users\yeti9\Desktop\All Project\Project_NET\CodinGameCSharp\CodingameCSharp\CodinGameCsharpUpdated\obj\Debug\net6.0\ref\CodinGameCsharpUpdated.dll
